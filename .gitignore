@@ -1,0 +1,4 @@
+# Ignore object files generated from
+# compilation of source files
+*.o
+bin/
