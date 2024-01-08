@@ -2,3 +2,7 @@
 # compilation of source files
 *.o
 bin/
+# Ignore `target/' directory and its
+# contents. This directory is obtained
+# after building rust projects.
+target/
