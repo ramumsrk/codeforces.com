@@ -1,0 +1,1 @@
+# [C. Secret message](https://codeforces.com/contest/2194/problem/C)

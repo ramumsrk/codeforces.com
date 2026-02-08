@@ -1,0 +1,8 @@
+# [problem](https://codeforces.com/contest/2194/problem/)
+1. [A. Lawn Mower](https://codeforces.com/contest/2194/problem/A)
+2. [B. Offshores](https://codeforces.com/contest/2194/problem/B)
+3. [C. Secret message](https://codeforces.com/contest/2194/problem/C)
+4. [D. Table Cut](https://codeforces.com/contest/2194/problem/D)
+5. [E. The Turtle Strikes Back](https://codeforces.com/contest/2194/problem/E)
+6. [F1. Again Trees... (Easy Version)](https://codeforces.com/contest/2194/problem/F1)
+7. [F2. Again Trees... (hard version)](https://codeforces.com/contest/2194/problem/F2)

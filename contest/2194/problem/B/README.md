@@ -1,0 +1,1 @@
+# [B. Offshores](https://codeforces.com/contest/2194/problem/B)
