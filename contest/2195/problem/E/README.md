@@ -1,0 +1,1 @@
+# [E. Idiot First Search](https://codeforces.com/contest/2195/problem/E)

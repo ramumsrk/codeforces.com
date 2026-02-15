@@ -1,0 +1,1 @@
+# [C. Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C)

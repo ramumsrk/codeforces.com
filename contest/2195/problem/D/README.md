@@ -1,0 +1,1 @@
+# [D. Absolute Cinema](https://codeforces.com/contest/2195/problem/D)

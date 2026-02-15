@@ -1,0 +1,1 @@
+# [G. Idiot First Search and Queries](https://codeforces.com/contest/2195/problem/G)

@@ -1,0 +1,1 @@
+# [F. Parabola Independence](https://codeforces.com/contest/2195/problem/F)
