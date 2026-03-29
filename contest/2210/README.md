@@ -1,0 +1,10 @@
+# [Codeforces Round 1089 (Div. 2)](https://codeforces.com/contest/2210)
+1. [A. A Simple Sequence](./problem/A/)
+2. [B. Simply Sitting on Chairs](./problem/B/)
+3. [C1. A Simple GCD Problem (Easy Version)](./problem/C1/)
+4. [C2. A Simple GCD Problem (Hard Version)](./problem/C2/)
+5. [D. A Simple RBS Problem](./problem/D/)
+6. [E. Binary Strings are Simple?](./problem/E/)
+7. [F. A Simple Problem](./problem/F/)
+## Standings
+[standings](https://codeforces.com/contest/2210/standings)

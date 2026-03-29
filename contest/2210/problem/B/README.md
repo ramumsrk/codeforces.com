@@ -1,0 +1,1 @@
+# [B. Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B)

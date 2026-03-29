@@ -1,0 +1,8 @@
+# [problem](https://codeforces.com/contest/2210/problem)
+1. [A. A Simple Sequence](./A/)
+2. [B. Simply Sitting on Chairs](./B/)
+3. [C1. A Simple GCD Problem (Easy Version)](./C1/)
+4. [C2. A Simple GCD Problem (Hard Version)](./C2/)
+5. [D. A Simple RBS Problem](./D/)
+6. [E. Binary Strings are Simple?](./E/)
+7. [F. A Simple Problem](./F/)
