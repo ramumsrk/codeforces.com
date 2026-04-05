@@ -1,0 +1,8 @@
+# [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contests/2218)
+1. [A. The 67th Integer Problem](../../../contest/Div_4/2218/problem/A/)
+2. [B. The 67th 6-7 Integer Problem](../../../contest/Div_4/2218/problem/B/)
+3. [C. The 67th Permutation Problem](../../../contest/Div_4/2218/problem/C/)
+4. [D. The 67th OEIS Problem](../../../contest/Div_4/2218/problem/D/)
+5. [E. The 67th XOR Problem](../../../contest/Div_4/2218/problem/E/)
+6. [F. The 67th Tree Problem](../../../contest/Div_4/2218/problem/F/)
+7. [G. The 67th Iteration of "Counting is Fun"](../../../contest/Div_4/2218/problem/G/)

@@ -1,0 +1,8 @@
+# [problem](https://codeforces.com/contest/2218/problem)
+1. [A. The 67th Integer Problem](./A/)
+2. [B. The 67th 6-7 Integer Problem](./B/)
+3. [C. The 67th Permutation Problem](./C/)
+4. [D. The 67th OEIS Problem](./D/)
+5. [E. The 67th XOR Problem](./E/)
+6. [F. The 67th Tree Problem](./F/)
+7. [G. The 67th Iteration of "Counting is Fun"](./G/)
