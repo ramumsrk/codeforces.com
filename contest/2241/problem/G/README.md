@@ -1,0 +1,1 @@
+# [G. Summmon](https://codeforces.com/contest/2241/problem/G)

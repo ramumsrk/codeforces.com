@@ -1,0 +1,1 @@
+# [D. An Alternative Way](https://codeforces.com/contest/2241/problem/D)

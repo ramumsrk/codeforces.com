@@ -1,0 +1,1 @@
+# [C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)

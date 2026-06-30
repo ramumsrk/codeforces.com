@@ -1,0 +1,1 @@
+# [F. A Bit Odd](https://codeforces.com/contest/2241/problem/F)

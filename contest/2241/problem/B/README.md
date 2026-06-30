@@ -1,0 +1,1 @@
+# [B. Good times Good times](https://codeforces.com/contest/2241/problem/B)

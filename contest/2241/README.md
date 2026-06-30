@@ -1,0 +1,10 @@
+# [Codeforces Round 1107 (Div. 3)](https://codeforces.com/contest/2241)
+1. [A. Divide and Conquer](./problem/A/)
+2. [B. Good times Good times](./problem/B/)
+3. [C. RemovevomeR](./problem/C/)
+4. [D. An Alternative Way](./problem/D/)
+5. [E. Fair and Square](./problem/E/)
+6. [F. A Bit Odd](./problem/F/)
+7. [G. Summmon](./problem/G/)
+## Standings
+[standings](https://codeforces.com/contest/2241/standings)

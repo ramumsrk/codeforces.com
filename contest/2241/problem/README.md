@@ -1,0 +1,8 @@
+# [problems](https://codeforces.com/contest/2241)
+1. [A. Divide and Conquer](./A/)
+2. [B. Good times Good times](./B/)
+3. [C. RemovevomeR](./C/)
+4. [D. An Alternative Way](./D/)
+5. [E. Fair and Square](./E/)
+6. [F. A Bit Odd](./F/)
+7. [G. Summmon](./G/)

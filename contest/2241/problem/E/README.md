@@ -1,0 +1,1 @@
+# [E. Fair and Square](https://codeforces.com/contest/2241/problem/E)
